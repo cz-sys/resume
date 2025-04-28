@@ -55,7 +55,6 @@ cd ./resume/resume-backend
 运行以下命令安装后端项目依赖并启动服务：
 
 ```bash
-mvn clean install
 mvn spring-boot:run
 ```
 
